@@ -1,0 +1,4 @@
+#Fri Jan 13 07:30:11 AST 2023
+base.0=/home/sajjad_salam/Downloads/المشروع/bcafee/build/app/intermediates/dex/profile/mergeDexProfile/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
